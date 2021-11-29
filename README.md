@@ -1,6 +1,6 @@
 # 1. Introduction
 
-This web application provides basic todolist functions including inserting tasks, deleting tasks, showing details of tasks. You need to register an account before starting using the todolist. All of your contents are stored in the database and you can access them on any device. Backend never stores your plain password as your password has been hashed before it is stored. Once you have signed in successfully, the token is the credential that keeps you logged in for half an hour. If you choose to remember when signing in, this period will be extended to 24 hours. You can log out at any time, and the token will not be valid anymore.
+This web application provides basic todolist functions including inserting tasks, deleting tasks, showing details of tasks. You need to register an account before starting using the todolist. All of your contents are stored in the database and you can access them on any device. Backend never stores your plain password as your password has been hashed before it is stored. Once you have signed in successfully, the token is the credential that keeps you logged in for half an hour. If you choose to remember your account, this period will be extended to 24 hours. You can log out at any time, and the token will not be valid anymore.
 
 # 2. Product Showcase
 ### 2.1. Landing page
